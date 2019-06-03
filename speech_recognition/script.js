@@ -11,7 +11,16 @@ recognition.addEventListener('result', e => {
   const transcript = Array.from(e.results)
     .map(result => result[0])
     .map(result => result.transcript)
-    .join('')
+    .join('');
+
+  p.textContent = transcript;
+  if (e.results[0].isFinal) {
+    p = document.createElement('p');
+    words.appendChild(p);
+  }
+  if (transcript.includes('poop')) {
+    console.log('💩');
+  }
   console.log(transcript);
 });
 
