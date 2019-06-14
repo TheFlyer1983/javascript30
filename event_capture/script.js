@@ -13,9 +13,5 @@ divs.forEach(div => div.addEventListener('click', logText, {
 button.addEventListener('click', () => {
   console.log('Click!!!');
 }, {
-<<<<<<< HEAD
   once : true
-=======
-  once : true.
->>>>>>> f6a297da3b87056e1d2a9ea5403257925ed9e433
 })
