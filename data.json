@@ -1,0 +1,32 @@
+[
+  {
+    "name" : "JavaScript Drum Kit",
+    "url" : "./javascript_drumkit",
+    "description" : "This is a JavaScript drumkit."
+  },
+  {
+    "name" : "JS and CSS Clock",
+    "url" : "./js_clock",
+    "description" : "This is a JavaScript and CSS clock."
+  },
+  {
+    "name" : "CSS Variables",
+    "url" : "./css_variables",
+    "description" : "CSS Variables and Javascript."
+  },
+  {
+    "name" : "Array Cardio Day 1",
+    "url" : "./arrays1",
+    "description" : "Array Cardio Day 1."
+  },
+  {
+    "name" : "Flex Panel Gallery",
+    "url" : "./flex_panel_image_gallery",
+    "description" : "Flex panel image gallery."
+  },
+  {
+    "name" : "Type Ahead",
+    "url" : "./ajax_type_ahead",
+    "description" : "Ajax Type Ahead."
+  }
+]
