@@ -28,5 +28,125 @@
     "name" : "Type Ahead",
     "url" : "./ajax_type_ahead",
     "description" : "Ajax Type Ahead."
+  },
+  {
+    "name" : "Array Cardio Day 2",
+    "url" : "./arrays2",
+    "description" : "Array Cardio Day 2."
+  },
+  {
+    "name" : "HTML5 Canvas",
+    "url" : "./html5_canvas",
+    "description" : "Fun with HTML5 Canvas."
+  },
+  {
+    "name" : "Dev Tools Domination",
+    "url" : "./tool_tricks",
+    "description" : "Dev Tools Domination."
+  },
+  {
+    "name" : "Hold Shift and Check Checkboxes",
+    "url" : "./checkboxes",
+    "description" : "Hold Shift and Check Checkboxes."
+  },
+  {
+    "name" : "Custom Video Player",
+    "url" : "./html5_video",
+    "description" : "Custom Video Player."
+  },
+  {
+    "name" : "Key Sequence Detection",
+    "url" : "./key_detection",
+    "description" : "Key Sequence Detection."
+  },
+  {
+    "name" : "Slide in on Scroll",
+    "url" : "./slide_in_on_scroll",
+    "description" : "Slide in on Scroll."
+  },
+  {
+    "name" : "JavaScript References VS Copying",
+    "url" : "./object_arrays",
+    "description" : "JavaScript References VS Copying."
+  },
+  {
+    "name" : "LocalStorage",
+    "url" : "./local_storage",
+    "description" : "LocalStorage."
+  },
+  {
+    "name" : "Mouse Move Shadow",
+    "url" : "./mouse_move_shaddow",
+    "description" : "Mouse Move Shadow."
+  },
+  {
+    "name" : "Sort Without Articles",
+    "url" : "./sort_without_articles",
+    "description" : "Sort Without Articles."
+  },
+  {
+    "name" : "Adding Up Times with Reduce",
+    "url" : "./tally_string_times_reduce",
+    "description" : "Adding Up Times with Reduce."
+  },
+  {
+    "name" : "Webcam Fun",
+    "url" : "./webcam_fun",
+    "description" : "Webcam Fun."
+  },
+  {
+    "name" : "Speech Detection",
+    "url" : "./speech_recognition",
+    "description" : "Speech Detection."
+  },
+  {
+    "name" : "Geolocation",
+    "url" : "./geolocation",
+    "description" : "Geolocation."
+  },
+  {
+    "name" : "Follow Along Link Highlighter",
+    "url" : "./follow_along_links",
+    "description" : "Follow Along Link Highlighter."
+  },
+  {
+    "name" : "Speech Synthesis",
+    "url" : "./speech_synthesis",
+    "description" : "Speech Synthesis."
+  },
+  {
+    "name" : "Sticky Nav",
+    "url" : "./sticky_nav",
+    "description" : "Sticky Nav."
+  },
+  {
+    "name" : "Event Capture, Propagation, Bubbling and Once",
+    "url" : "./event_capture",
+    "description" : "Event Capture, Propagation, Bubbling and Once."
+  },
+  {
+    "name" : "Stripe Follow Along Nav",
+    "url" : "./stripe_follow_along_dropdown",
+    "description" : "Stripe Follow Along Nav."
+  },
+  {
+    "name" : "Click and Drag",
+    "url" : "./click_and_drag_to_scroll",
+    "description" : "Click and Drag."
+  },
+  {
+    "name" : "Video Speed Controller",
+    "url" : "./video_speed_controller",
+    "description" : "Video Speed Controller."
+  },
+  {
+    "name" : "Countdown Timer",
+    "url" : "./countdown_clock",
+    "description" : "Countdown Timer."
+  },
+  {
+    "name" : "Whack A Mole",
+    "url" : "./whack_a_mole",
+    "description" : "Whack A Mole."
   }
 ]
