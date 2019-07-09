@@ -11,4 +11,7 @@ fetch('./data.json')
       `;
     }).join('');
   })
+  .catch(err => {
+    console.log(err);
+  });
 

@@ -1,0 +1,19 @@
+@font-face{
+  font-family: "againtsregular";
+  src: url(./fonts/againts.otf) format('OpenType');
+}
+
+.page-header{
+  border-bottom: 1px solid grey;
+  margin-bottom: 15px;
+}
+
+.page-header h1{
+  font-family: "againtsregular";
+  font-size: 7em;
+}
+
+.body{
+  display: flex;
+  justify-content: space-around;
+}
