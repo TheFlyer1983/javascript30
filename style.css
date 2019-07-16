@@ -3,6 +3,9 @@
   src: url(./fonts/againts.otf) format('OpenType');
 }
 
+body{
+  background-color: lightgrey;
+}
 .page-header{
   border-bottom: 1px solid grey;
   margin-bottom: 15px;
@@ -36,9 +39,15 @@
   text-align: center;
   cursor: pointer;
 }
-a.nav-link{
+.nav-link{
   padding: 0;
+  color: black;
 }
+
+.navbar-text{
+  margin: 0;
+}
+
 /*#links ul li a:link{
   text-decoration: none;
 }*/
