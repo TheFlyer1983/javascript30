@@ -1,4 +1,3 @@
-const links = document.querySelector('#links');
 const linkList = document.querySelector('#link-list');
 
 fetch('./data.json')
@@ -18,9 +17,12 @@ fetch('./data.json')
   });
 
 function handleHover(e) {
+  const child = this.children[0];
   if (e.type === 'mouseenter') {
-    this.classList.add('hover');
+    this.classList.add('alert-primary');
+    child.classList.add('alert-link');
   } else {
-    this.classList.remove('hover');
+    this.classList.remove('alert-primary');
+    child.classList.remove('alert-link');
   }
 }
