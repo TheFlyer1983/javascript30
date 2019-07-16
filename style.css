@@ -9,11 +9,18 @@ body{
 .page-header{
   border-bottom: 1px solid grey;
   margin-bottom: 15px;
+  display: flex;
+  justify-content: space-between;
+
 }
 
 .page-header h1{
   font-family: "againtsregular";
   font-size: 7em;
+}
+
+.logo{
+  align-self: center;
 }
 
 .body{
