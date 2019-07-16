@@ -18,3 +18,27 @@
   justify-content: space-around;
   padding-bottom: 50px;
 }
+
+.content{
+  width: 50%;
+  text-align: justify;
+}
+
+#links ul{
+  list-style: none;
+}
+
+#links ul li{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 3px;
+  text-align: center;
+  cursor: pointer;
+}
+a.nav-link{
+  padding: 0;
+}
+/*#links ul li a:link{
+  text-decoration: none;
+}*/
