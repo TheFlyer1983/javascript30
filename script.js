@@ -9,19 +9,18 @@ fetch('./data.json')
         <li class="link-item"><a href="${link.url}">${link.name}</a></li>
       `;
     }).join('');
+    const linkItems = document.querySelectorAll('li');
+    linkItems.forEach(linkItem => linkItem.addEventListener('mouseenter', handleHover));
+    linkItems.forEach(linkItem => linkItem.addEventListener('mouseleave', handleHover));
   })
   .catch(err => {
     console.log(err);
   });
 
-const linkItems = document.querySelectorAll('.link-item');
-
-function handleHover() {
-  console.log(e);
-  console.log(this);
-  this.classList.add('hover');
+function handleHover(e) {
+  if (e.type === 'mouseenter') {
+    this.classList.add('hover');
+  } else {
+    this.classList.remove('hover');
+  }
 }
-
-console.log(linkItems);
-//linkItems.forEach(linkItem => linkItem.addEventListener('mouseenter', handleHover));
-linkItems.forEach(linkItem => console.log(linkItem));
