@@ -5,7 +5,7 @@ fetch('./data.json')
   .then(data => {
     linkList.innerHTML = data.map((link) => {
       return `
-        <li class="link-item"><a href="${link.url}">${link.name}</a></li>
+        <a href="${link.url}" class="nav-link"><li class="link-item">${link.name}</li></a>
       `;
     }).join('');
     const linkItems = document.querySelectorAll('li');
@@ -17,12 +17,12 @@ fetch('./data.json')
   });
 
 function handleHover(e) {
-  const child = this.children[0];
+  const parent = this.parentElement;
   if (e.type === 'mouseenter') {
     this.classList.add('alert-primary');
-    child.classList.add('alert-link');
+    parent.classList.add('alert-link');
   } else {
     this.classList.remove('alert-primary');
-    child.classList.remove('alert-link');
+    parent.classList.remove('alert-link');
   }
 }

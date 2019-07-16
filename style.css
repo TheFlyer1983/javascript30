@@ -29,14 +29,16 @@
 }
 
 #links ul li{
-  border: 1px solid;
+  border: 1px solid black;
   border-radius: 5px;
   padding: 5px;
   margin: 3px;
   text-align: center;
   cursor: pointer;
 }
-
-#links ul li a:link{
-  text-decoration: none;
+a.nav-link{
+  padding: 0;
 }
+/*#links ul li a:link{
+  text-decoration: none;
+}*/
