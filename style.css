@@ -55,6 +55,21 @@ body{
   margin: 0;
 }
 
-/*#links ul li a:link{
+.footer{
+  display: flex;
+  justify-content: space-around;
+  background-color: #343a40;
+  color: #fff;
+  border-top: 1px solid;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  height: 45px;
+  width: 100%;
+  padding: 8px 16px;
+}
+
+.footer a{
   text-decoration: none;
-}*/
+  color: #fff;
+}
