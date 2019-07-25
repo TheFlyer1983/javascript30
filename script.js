@@ -5,10 +5,10 @@ fetch('./data.json')
   .then(data => {
     linkList.innerHTML = data.map((link) => {
       return `
-        <a href="${link.url}" class="nav-link"><li class="link-item">${link.name}</li></a>
+        <a href="${link.url}" class="nav-link"><div class="link-item">${link.name}</div></a>
       `;
     }).join('');
-    const linkItems = document.querySelectorAll('li');
+    const linkItems = document.querySelectorAll('.nav-link');
     linkItems.forEach(linkItem => linkItem.addEventListener('mouseenter', handleHover));
     linkItems.forEach(linkItem => linkItem.addEventListener('mouseleave', handleHover));
   })
@@ -17,12 +17,12 @@ fetch('./data.json')
   });
 
 function handleHover(e) {
-  const parent = this.parentElement;
+  // const parent = this.parentElement;
   if (e.type === 'mouseenter') {
     this.classList.add('alert-primary');
-    parent.classList.add('alert-link');
+    this.classList.add('alert-link');
   } else {
     this.classList.remove('alert-primary');
-    parent.classList.remove('alert-link');
+    this.classList.remove('alert-link');
   }
 }

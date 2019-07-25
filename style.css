@@ -24,28 +24,36 @@ body{
 }
 
 .body{
-  display: flex;
-  justify-content: space-around;
   padding-bottom: 50px;
 }
 
 .content{
-  width: 50%;
   text-align: justify;
 }
 
-#links ul{
-  list-style: none;
-}
-
-#links ul li{
-  border: 1px solid black;
+#links a{
+  /* border: 1px solid black;
   border-radius: 5px;
   padding: 5px;
-  margin: 3px;
+  margin: 3px; */
   text-align: center;
   cursor: pointer;
 }
+
+.link-list{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 1rem;
+
+}
+
+.link-list a {
+  padding: 10px;
+  border: 1px solid;
+  background-color: white;
+  border-radius: 5px;
+}
+
 .nav-link{
   padding: 0;
   color: black;
