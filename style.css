@@ -57,6 +57,9 @@ body{
 .nav-link{
   padding: 0;
   color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .navbar-text{
