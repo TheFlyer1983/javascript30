@@ -2,151 +2,181 @@
   {
     "name" : "JavaScript Drum Kit",
     "url" : "./javascript_drumkit",
-    "description" : "This is a JavaScript drumkit."
+    "description" : "This is a JavaScript drumkit.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "JS and CSS Clock",
     "url" : "./js_clock",
-    "description" : "This is a JavaScript and CSS clock."
+    "description" : "This is a JavaScript and CSS clock.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "CSS Variables",
     "url" : "./css_variables",
-    "description" : "CSS Variables and Javascript."
+    "description" : "CSS Variables and Javascript.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Array Cardio Day 1",
     "url" : "./arrays1",
-    "description" : "Array Cardio Day 1."
+    "description" : "Array Cardio Day 1.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Flex Panel Gallery",
     "url" : "./flex_panel_image_gallery",
-    "description" : "Flex panel image gallery."
+    "description" : "Flex panel image gallery.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Type Ahead",
     "url" : "./ajax_type_ahead",
-    "description" : "Ajax Type Ahead."
+    "description" : "Ajax Type Ahead.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Array Cardio Day 2",
     "url" : "./arrays2",
-    "description" : "Array Cardio Day 2."
+    "description" : "Array Cardio Day 2.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "HTML5 Canvas",
     "url" : "./html5_canvas",
-    "description" : "Fun with HTML5 Canvas."
+    "description" : "Fun with HTML5 Canvas.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Dev Tools Domination",
     "url" : "./tool_tricks",
-    "description" : "Dev Tools Domination."
+    "description" : "Dev Tools Domination.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Hold Shift and Check Checkboxes",
     "url" : "./checkboxes",
-    "description" : "Hold Shift and Check Checkboxes."
+    "description" : "Hold Shift and Check Checkboxes.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Custom Video Player",
     "url" : "./html5_video",
-    "description" : "Custom Video Player."
+    "description" : "Custom Video Player.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Key Sequence Detection",
     "url" : "./key_detection",
-    "description" : "Key Sequence Detection."
+    "description" : "Key Sequence Detection.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Slide in on Scroll",
     "url" : "./slide_in_on_scroll",
-    "description" : "Slide in on Scroll."
+    "description" : "Slide in on Scroll.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "JavaScript References VS Copying",
     "url" : "./object_arrays",
-    "description" : "JavaScript References VS Copying."
+    "description" : "JavaScript References VS Copying.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "LocalStorage",
     "url" : "./local_storage",
-    "description" : "LocalStorage."
+    "description" : "LocalStorage.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Mouse Move Shadow",
     "url" : "./mouse_move_shaddow",
-    "description" : "Mouse Move Shadow."
+    "description" : "Mouse Move Shadow.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Sort Without Articles",
     "url" : "./sort_without_articles",
-    "description" : "Sort Without Articles."
+    "description" : "Sort Without Articles.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Adding Up Times with Reduce",
     "url" : "./tally_string_times_reduce",
-    "description" : "Adding Up Times with Reduce."
+    "description" : "Adding Up Times with Reduce.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Webcam Fun",
     "url" : "./webcam_fun",
-    "description" : "Webcam Fun."
+    "description" : "Webcam Fun.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Speech Detection",
     "url" : "./speech_recognition",
-    "description" : "Speech Detection."
+    "description" : "Speech Detection.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Geolocation",
     "url" : "./geolocation",
-    "description" : "Geolocation."
+    "description" : "Geolocation.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Follow Along Link Highlighter",
     "url" : "./follow_along_links",
-    "description" : "Follow Along Link Highlighter."
+    "description" : "Follow Along Link Highlighter.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Speech Synthesis",
     "url" : "./speech_synthesis",
-    "description" : "Speech Synthesis."
+    "description" : "Speech Synthesis.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Sticky Nav",
     "url" : "./sticky_nav",
-    "description" : "Sticky Nav."
+    "description" : "Sticky Nav.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Event Capture, Propagation, Bubbling and Once",
     "url" : "./event_capture",
-    "description" : "Event Capture, Propagation, Bubbling and Once."
+    "description" : "Event Capture, Propagation, Bubbling and Once.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Stripe Follow Along Nav",
     "url" : "./stripe_follow_along_dropdown",
-    "description" : "Stripe Follow Along Nav."
+    "description" : "Stripe Follow Along Nav.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Click and Drag",
     "url" : "./click_and_drag_to_scroll",
-    "description" : "Click and Drag."
+    "description" : "Click and Drag.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Video Speed Controller",
     "url" : "./video_speed_controller",
-    "description" : "Video Speed Controller."
+    "description" : "Video Speed Controller.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Countdown Timer",
     "url" : "./countdown_clock",
-    "description" : "Countdown Timer."
+    "description" : "Countdown Timer.",
+    "background" : "https://via.placeholder.com/200"
   },
   {
     "name" : "Whack A Mole",
     "url" : "./whack_a_mole",
-    "description" : "Whack A Mole."
+    "description" : "Whack A Mole.",
+    "background" : "https://via.placeholder.com/200"
   }
 ]

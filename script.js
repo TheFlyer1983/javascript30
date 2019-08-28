@@ -5,7 +5,7 @@ fetch('./data.json')
   .then(data => {
     linkList.innerHTML = data.map((link) => {
       return `
-        <a href="${link.url}" class="nav-link"><div class="link-item">${link.name}</div></a>
+        <a href="${link.url}" class="nav-link"><div class="link-item" style="background-image: url('${link.background}')">${link.name}</div></a>
       `;
     }).join('');
     const linkItems = document.querySelectorAll('.nav-link');
