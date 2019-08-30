@@ -43,7 +43,7 @@ body{
 .link-list{
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  grid-gap: 1rem;
+  /* grid-gap: 1rem; */
 }
 
 .link-list a {
@@ -92,4 +92,55 @@ body{
 .footer a{
   text-decoration: none;
   color: #fff;
+}
+
+
+/* --- */
+
+.hide-child .child {
+  opacity: 0;
+  transition: opacity .15s ease-in;
+}
+.hide-child:hover  .child,
+.hide-child:focus  .child,
+.hide-child:active .child {
+  opacity: 1;
+  transition: opacity .15s ease-in;
+}
+
+.underline-hover:hover,
+.underline-hover:focus {
+  text-decoration: underline;
+}
+
+.grow {
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+}
+
+.grow:hover,
+.grow:focus {
+  transform: scale(1.05);
+}
+
+.grow:active {
+  transform: scale(.90);
+}
+
+.grow-large {
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform .25s ease-in-out;
+}
+
+.grow-large:hover,
+.grow-large:focus {
+  transform: scale(1.2);
+}
+
+.grow-large:active {
+  transform: scale(.95);
 }
