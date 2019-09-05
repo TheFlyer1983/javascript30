@@ -3,19 +3,19 @@
     "name" : "JavaScript Drum Kit",
     "url" : "./javascript_drumkit",
     "description" : "This is a JavaScript drumkit.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/jsdrumkit.png"
   },
   {
     "name" : "JS and CSS Clock",
     "url" : "./js_clock",
     "description" : "This is a JavaScript and CSS clock.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/jsclock.png"
   },
   {
     "name" : "CSS Variables",
     "url" : "./css_variables",
     "description" : "CSS Variables and Javascript.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/cssvariables.png"
   },
   {
     "name" : "Array Cardio Day 1",
