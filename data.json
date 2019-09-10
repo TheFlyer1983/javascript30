@@ -87,7 +87,7 @@
     "name" : "LocalStorage",
     "url" : "./local_storage",
     "description" : "LocalStorage.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/localstorage.png"
   },
   {
     "name" : "Mouse Move Shadow",
@@ -123,19 +123,19 @@
     "name" : "Geolocation",
     "url" : "./geolocation",
     "description" : "Geolocation.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/geolocation.png"
   },
   {
     "name" : "Follow Along Link Highlighter",
     "url" : "./follow_along_links",
     "description" : "Follow Along Link Highlighter.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/followalonglink.png"
   },
   {
     "name" : "Speech Synthesis",
     "url" : "./speech_synthesis",
     "description" : "Speech Synthesis.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/speechsynthesis.png"
   },
   {
     "name" : "Sticky Nav",
@@ -153,30 +153,30 @@
     "name" : "Stripe Follow Along Nav",
     "url" : "./stripe_follow_along_dropdown",
     "description" : "Stripe Follow Along Nav.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/followalongnav.png"
   },
   {
     "name" : "Click and Drag",
     "url" : "./click_and_drag_to_scroll",
     "description" : "Click and Drag.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/clickanddrag.png"
   },
   {
     "name" : "Video Speed Controller",
     "url" : "./video_speed_controller",
     "description" : "Video Speed Controller.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/videospeedcontroller.png"
   },
   {
     "name" : "Countdown Timer",
     "url" : "./countdown_clock",
     "description" : "Countdown Timer.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/countdowntimer.png"
   },
   {
     "name" : "Whack A Mole",
     "url" : "./whack_a_mole",
     "description" : "Whack A Mole.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/whackamole.png"
   }
 ]
