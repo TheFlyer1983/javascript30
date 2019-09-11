@@ -66,6 +66,11 @@ body{
   background-position: center center;
 }
 
+.link-text{
+  background-color: black;
+  width: 100%
+}
+
 .navbar-text{
   margin: 0;
 }
