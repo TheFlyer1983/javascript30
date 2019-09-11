@@ -21,7 +21,7 @@
     "name" : "Array Cardio Day 1",
     "url" : "./arrays1",
     "description" : "Array Cardio Day 1.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/coming-soon.jpg"
   },
   {
     "name" : "Flex Panel Gallery",
@@ -39,19 +39,19 @@
     "name" : "Array Cardio Day 2",
     "url" : "./arrays2",
     "description" : "Array Cardio Day 2.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/coming-soon.jpg"
   },
   {
     "name" : "HTML5 Canvas",
     "url" : "./html5_canvas",
     "description" : "Fun with HTML5 Canvas.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/html5canvas.png"
   },
   {
     "name" : "Dev Tools Domination",
     "url" : "./tool_tricks",
     "description" : "Dev Tools Domination.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/coming-soon.jpg"
   },
   {
     "name" : "Hold Shift and Check Checkboxes",
@@ -69,19 +69,19 @@
     "name" : "Key Sequence Detection",
     "url" : "./key_detection",
     "description" : "Key Sequence Detection.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/keydetection.png"
   },
   {
     "name" : "Slide in on Scroll",
     "url" : "./slide_in_on_scroll",
     "description" : "Slide in on Scroll.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/slidescroll.png"
   },
   {
     "name" : "JavaScript References VS Copying",
     "url" : "./object_arrays",
     "description" : "JavaScript References VS Copying.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/coming-soon.jpg"
   },
   {
     "name" : "LocalStorage",
@@ -93,31 +93,31 @@
     "name" : "Mouse Move Shadow",
     "url" : "./mouse_move_shaddow",
     "description" : "Mouse Move Shadow.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/mouseshaddow.png"
   },
   {
     "name" : "Sort Without Articles",
     "url" : "./sort_without_articles",
     "description" : "Sort Without Articles.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/sortwithoutarticles.png"
   },
   {
     "name" : "Adding Up Times with Reduce",
     "url" : "./tally_string_times_reduce",
     "description" : "Adding Up Times with Reduce.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/coming-soon.jpg"
   },
   {
     "name" : "Webcam Fun",
     "url" : "./webcam_fun",
     "description" : "Webcam Fun.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/webcamfun.png"
   },
   {
     "name" : "Speech Detection",
     "url" : "./speech_recognition",
     "description" : "Speech Detection.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/speechdetection.png"
   },
   {
     "name" : "Geolocation",
@@ -141,13 +141,13 @@
     "name" : "Sticky Nav",
     "url" : "./sticky_nav",
     "description" : "Sticky Nav.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/stickynav.png"
   },
   {
     "name" : "Event Capture, Propagation, Bubbling and Once",
     "url" : "./event_capture",
     "description" : "Event Capture, Propagation, Bubbling and Once.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/eventcapture.png"
   },
   {
     "name" : "Stripe Follow Along Nav",
