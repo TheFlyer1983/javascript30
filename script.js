@@ -7,7 +7,7 @@ fetch('./data.json')
       return `
         <a href="${link.url}" class="nav-link">
           <div class="link-item hide-child grow-large link-background" style="background-image: url('${link.background}');">
-            <span class="child">${link.name}</span>
+            <span class="child link-text">${link.name}</span>
           </div>
         </a>
       `;
