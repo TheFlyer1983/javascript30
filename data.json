@@ -3,180 +3,180 @@
     "name" : "JavaScript Drum Kit",
     "url" : "./javascript_drumkit",
     "description" : "This is a JavaScript drumkit.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/jsdrumkit.png"
   },
   {
     "name" : "JS and CSS Clock",
     "url" : "./js_clock",
     "description" : "This is a JavaScript and CSS clock.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/jsclock.png"
   },
   {
     "name" : "CSS Variables",
     "url" : "./css_variables",
     "description" : "CSS Variables and Javascript.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/cssvariables.png"
   },
   {
     "name" : "Array Cardio Day 1",
     "url" : "./arrays1",
     "description" : "Array Cardio Day 1.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/coming-soon.jpg"
   },
   {
     "name" : "Flex Panel Gallery",
     "url" : "./flex_panel_image_gallery",
     "description" : "Flex panel image gallery.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/flexgallery.png"
   },
   {
     "name" : "Type Ahead",
     "url" : "./ajax_type_ahead",
     "description" : "Ajax Type Ahead.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/typeahead.png"
   },
   {
     "name" : "Array Cardio Day 2",
     "url" : "./arrays2",
     "description" : "Array Cardio Day 2.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/coming-soon.jpg"
   },
   {
     "name" : "HTML5 Canvas",
     "url" : "./html5_canvas",
     "description" : "Fun with HTML5 Canvas.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/html5canvas.png"
   },
   {
     "name" : "Dev Tools Domination",
     "url" : "./tool_tricks",
     "description" : "Dev Tools Domination.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/coming-soon.jpg"
   },
   {
     "name" : "Hold Shift and Check Checkboxes",
     "url" : "./checkboxes",
     "description" : "Hold Shift and Check Checkboxes.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/checkboxes.png"
   },
   {
     "name" : "Custom Video Player",
     "url" : "./html5_video",
     "description" : "Custom Video Player.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/videoplayer.png"
   },
   {
     "name" : "Key Sequence Detection",
     "url" : "./key_detection",
     "description" : "Key Sequence Detection.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/keydetection.png"
   },
   {
     "name" : "Slide in on Scroll",
     "url" : "./slide_in_on_scroll",
     "description" : "Slide in on Scroll.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/slidescroll.png"
   },
   {
     "name" : "JavaScript References VS Copying",
     "url" : "./object_arrays",
     "description" : "JavaScript References VS Copying.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/coming-soon.jpg"
   },
   {
     "name" : "LocalStorage",
     "url" : "./local_storage",
     "description" : "LocalStorage.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/localstorage.png"
   },
   {
     "name" : "Mouse Move Shadow",
     "url" : "./mouse_move_shaddow",
     "description" : "Mouse Move Shadow.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/mouseshaddow.png"
   },
   {
     "name" : "Sort Without Articles",
     "url" : "./sort_without_articles",
     "description" : "Sort Without Articles.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/sortwithoutarticles.png"
   },
   {
     "name" : "Adding Up Times with Reduce",
     "url" : "./tally_string_times_reduce",
     "description" : "Adding Up Times with Reduce.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/coming-soon.jpg"
   },
   {
     "name" : "Webcam Fun",
     "url" : "./webcam_fun",
     "description" : "Webcam Fun.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/webcamfun.png"
   },
   {
     "name" : "Speech Detection",
     "url" : "./speech_recognition",
     "description" : "Speech Detection.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/speechdetection.png"
   },
   {
     "name" : "Geolocation",
     "url" : "./geolocation",
     "description" : "Geolocation.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/geolocation.png"
   },
   {
     "name" : "Follow Along Link Highlighter",
     "url" : "./follow_along_links",
     "description" : "Follow Along Link Highlighter.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/followalonglink.png"
   },
   {
     "name" : "Speech Synthesis",
     "url" : "./speech_synthesis",
     "description" : "Speech Synthesis.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/speechsynthesis.png"
   },
   {
     "name" : "Sticky Nav",
     "url" : "./sticky_nav",
     "description" : "Sticky Nav.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/stickynav.png"
   },
   {
     "name" : "Event Capture, Propagation, Bubbling and Once",
     "url" : "./event_capture",
     "description" : "Event Capture, Propagation, Bubbling and Once.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/eventcapture.png"
   },
   {
     "name" : "Stripe Follow Along Nav",
     "url" : "./stripe_follow_along_dropdown",
     "description" : "Stripe Follow Along Nav.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/followalongnav.png"
   },
   {
     "name" : "Click and Drag",
     "url" : "./click_and_drag_to_scroll",
     "description" : "Click and Drag.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/clickanddrag.png"
   },
   {
     "name" : "Video Speed Controller",
     "url" : "./video_speed_controller",
     "description" : "Video Speed Controller.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/videospeedcontroller.png"
   },
   {
     "name" : "Countdown Timer",
     "url" : "./countdown_clock",
     "description" : "Countdown Timer.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/countdowntimer.png"
   },
   {
     "name" : "Whack A Mole",
     "url" : "./whack_a_mole",
     "description" : "Whack A Mole.",
-    "background" : "https://via.placeholder.com/200"
+    "background" : "./images/whackamole.png"
   }
 ]

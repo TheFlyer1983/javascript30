@@ -2,6 +2,7 @@
 
 #Misc
 .DS_Store
+*/Thumbs.db
 
 #NPM Modules
 */node_modules
